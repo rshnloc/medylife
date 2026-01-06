@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /email_template
+Disallow: /email_template/*
+Disallow: /medy-old/*
+Disallow: /admin/*
+Disallow: /medy_test/*
+Disallow: */appointment-book/* 
+Disallow: */emergency/*
+Disallow: */emergency
+Disallow: */wp-admin
+Disallow: */scroller/*
+Disallow: */page/*
+Disallow: */page
+Disallow: */advisory-board/*
+Disallow: */advisory-board
+Disallow: */*/?testname=*
+Disallow: */*/*/?testname=*
+Disallow: */*/*/*?testname=*
+Disallow:/*/*/*?specialty=* 
+Disallow: /test-page
+Disallow: /test-page/*
